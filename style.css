@@ -1,0 +1,46 @@
+main{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.encriptarmsg{
+    margin: 2%;
+    text-align: center;
+}
+.input-texto{
+    margin-bottom: 2%;
+}
+.botones{
+    text-align: center;
+}
+.encriptar{
+    background-color: darkblue;
+    color: white;
+    border-color: darkblue;
+    padding: 3% 15%;
+    border-radius: 10px;
+    margin-right: 3%;
+}
+.desencriptar{
+    background-color: silver;
+    color: darkblue;
+    border-color: darkblue;
+    padding: 3% 15%;
+    border-radius: 10px;
+    margin-left: 3%;
+}
+.mensaje{
+    margin-bottom: 2%;
+    background-image: url(imagenes/Muñeco.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.copiar{
+    background-color: whitesmoke;
+    color: darkblue;
+    border-color: darkblue;
+    padding: 6% 35%;
+    border-radius: 5px;
+    margin: 3% 0% 0% 0%;    
+}
